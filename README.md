@@ -9,4 +9,4 @@ A simple Banking System has been implemented with the help of C++ functions, cla
 5. Close a Bank Account
 6. Show All existing Accounts
 
-Also, Banking System saves the data of accounts in **bankdata.txt** and loads it when it is run again. Thus, no data is lost when one starts the code for the second time. 
+Also, Banking System saves the data of accounts in **bankdata.txt** and loads it when it is run again. Thus, no data is lost when one runs the code for the second time. 
