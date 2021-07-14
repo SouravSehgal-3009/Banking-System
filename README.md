@@ -1,7 +1,7 @@
 # Banking-System
 A simple Banking System has been implemented with the help of C++ functions, classes and basic STL. 
 
-**Following functionalities are allowed in this Banking System:
+**Following functionalities are allowed in this Banking System:**
 1. Open an Account in the Bank
 2. Balance Enquiry of the Account
 3. Deposit amount in a Bank Account
